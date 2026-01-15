@@ -1,20 +1,19 @@
-
 # Environment Setup
 
 ## Target Application
 OWASP Juice Shop
 
-## Purpose
-This section documents the setup of the intentionally vulnerable application
-used for learning and practicing bug bounty techniques.
+## Setup Summary
+For this project, OWASP Juice Shop was run locally using Docker.
+Running the application locally ensured that all testing was performed
+in a safe and controlled environment.
 
 ## Deployment Method
-Docker (local deployment)
+Docker (local container-based deployment)
 
 ## Access URL
 http://localhost:3000
 
 ## Notes
-OWASP Juice Shop is a modern single-page application (SPA) that exposes
-REST APIs and client-side functionality commonly tested in real bug bounties.
-
+The application was accessed through a web browser after deployment.
+No external or real-world systems were involved in testing.

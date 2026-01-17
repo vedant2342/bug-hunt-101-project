@@ -3,6 +3,11 @@
 
 This section covers the initial exploration of the application before testing for vulnerabilities.
 
+## Note on Reconnaissance Scope
+Since the target application was hosted locally for learning purposes,
+traditional network reconnaissance such as subdomain enumeration or
+extensive Nmap scanning was not applicable.
+
 ## What Was Done
 - Browsed the application normally
 - Identified available features and pages
